@@ -36,5 +36,3 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Running the tests directory
-tests/resources/
